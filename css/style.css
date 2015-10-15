@@ -1,0 +1,15 @@
+div{
+	width: 130px;
+	height: 130px;
+	border: #000000 solid 2px;
+	background-color: #999999;
+	margin: 10px;
+}
+.span{
+	display: inline-block;
+}
+.fondo{
+	width: intrinsic;
+	height: intrinsic;
+	margin:10px;
+}
